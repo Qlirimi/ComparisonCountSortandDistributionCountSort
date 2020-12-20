@@ -2,7 +2,7 @@ import random
 import time
 
 dataLists =[]
-for i in range(0,1000):
+for i in range(0,1000000):
     numri = random.randint(0,100)
     dataLists.append(numri)
     
